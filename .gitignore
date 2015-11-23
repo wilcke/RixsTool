@@ -1,12 +1,17 @@
-# Files from QtCreater #
+# Files from QtCreator #
 ########################
 QTCreator_RixsToolUI/
 .idea/
 
-# Build dir #
-#############
+# Distribution / packaging #
+############################
+.Python
+bin/
 build/
-RixsTool/__pycache__/
+dist/
+eggs/
+.eggs/
+lib/
 
 # Performance Reports #
 #######################
