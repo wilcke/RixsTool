@@ -1,0 +1,18 @@
+# Files from QtCreater #
+########################
+QTCreator_RixsToolUI/
+.idea/
+
+# Build dir #
+#############
+build/
+RixsTool/__pycache__/
+
+# Performance Reports #
+#######################
+*.performance
+
+# Notes #
+#########
+notebook.py
+practices.txt

@@ -1,0 +1,21 @@
+How to install the "RixsTool" package
+=====================================
+
+1) Go to the directory "/scisoft/users/wilcke/swdev/id32/RixsTool-master".
+
+2) Execute
+      python setup.py install \
+         --prefix=/scisoft/users/wilcke/swdev/id32/RixsTool-master
+
+
+How to use the "RixsTool" package
+=================================
+
+1) Source the file "/scisoft/users/wilcke/swdev/id32/RixsTool-master/envar.sh".
+   Note: this is for the "bash" or similar shells. If you use "tcsh" or similar,
+   you may have to modify the syntax.
+
+2) Start the program with
+      /scisoft/users/wilcke/swdev/id32/RixsTool-master/scripts/rixstool
+
+3) The "RixsTool" GUI appears on the screen.
